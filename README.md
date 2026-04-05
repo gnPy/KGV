@@ -1,4 +1,4 @@
-# 🔐 KGV — Krypt Guard Vault
+# KGV — Krypt Guard Vault
 
 **A zero-knowledge encrypted file vault where the server can never see your password or your files.**
 
