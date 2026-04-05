@@ -1,0 +1,31 @@
+# ─── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Virtual Environment ─────────────────────────────
+venv/
+.venv/
+env/
+
+# ─── KGV Runtime Directories ─────────────────────────
+kgv_vault/
+kgv_downloads/
+server_vault/
+client_files/
+
+# ─── IDE / Editor ────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS Files ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
